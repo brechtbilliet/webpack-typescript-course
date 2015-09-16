@@ -1,0 +1,34 @@
+{
+  "name": "twitterapp",
+  "version": "0.0.0",
+  "description": "this is just a dummy twitter application",
+  "scripts": {
+    "start": "webpack --config webpack.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.5",
+    "angular-route": "^1.4.5",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.24",
+    "babel-loader": "^5.3.2",
+    "browser-sync": "^2.9.3",
+    "browser-sync-webpack-plugin": "^1.0.0",
+    "css-loader": "^0.18.0",
+    "file-loader": "^0.8.4",
+    "html-webpack-plugin": "^1.6.1",
+    "node-sass": "^3.3.2",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^2.0.1",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.12.3",
+    "ts-loader": "^0.5.5",
+    "typescript": "^1.6.0-beta",
+    "url-loader": "^0.5.6",
+    "webpack-dev-server": "^1.11.0"
+  }
+}

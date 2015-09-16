@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "d7def166d4e3d6ebf1d953f1da8e52c4ac1b0475"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "d7def166d4e3d6ebf1d953f1da8e52c4ac1b0475"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "d7def166d4e3d6ebf1d953f1da8e52c4ac1b0475"
+    }
+  }
+}
