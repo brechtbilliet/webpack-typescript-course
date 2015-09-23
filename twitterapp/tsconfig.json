@@ -5,8 +5,8 @@
         "noImplicitAny": false,
         "sourceMap": true
     },
-    "files": [
-        "app/_all.ts"
+    "exclude": [
+        "node_modules"
     ],
-    "version": "1.5.4"
+    "version": "1.6.2"
 }
